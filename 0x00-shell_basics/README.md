@@ -12,7 +12,8 @@ script 11 - lists all files incl. hidden in multiple directories
 script 12 - prints the type of file
 script 13 - creates a symbolic link
 script 14 - copies files that did not exist in the directory or are of a newer version
-script 101 - moves all files beginning with an uppercase letter
-script 102 - deletes all files ending with a certain character
+script 100 - moves all files beginning with an uppercase letter
+script 101 - deletes all files ending with a certain character
+script 102 - creates multiple directories
 script 103 - lists all files and directories separated by commas and sorted in alpha order by digits and letters
 school.mgc - creates a magic file that can be used with the file command to detect certain data files
