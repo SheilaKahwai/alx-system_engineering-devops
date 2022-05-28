@@ -14,5 +14,5 @@ script 12 - creates a directory while setting its permissions
 script 13 - changes group owner of a file
 script 100 - changes owner and group owner of all files and directories in working directory
 script 101 - changes owner and group owner of a symbolic link
-script 102 - changes the owner of a fie owned by a specific user
+script 102 - changes the owner of a file owned by a specific user
 script 103 - plays Star Wars IV episode in the terminal
