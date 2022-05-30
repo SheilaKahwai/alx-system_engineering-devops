@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -k3 /etc/passwd
+sort -k5n /etc/passwd
