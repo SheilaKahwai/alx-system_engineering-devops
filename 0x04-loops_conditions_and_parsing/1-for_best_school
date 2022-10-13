@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Prints the word Holberton School 10 times.
+# Prints the word Best School 10 times.
 for ((n=0;n<10;n++))
 do
 	echo "Best School"

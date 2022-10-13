@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Prints holberton 10 times.
+# Prints Best School 10 times.
 n=0
 while ((n < 10))
 do
